@@ -1,9 +1,3 @@
-package hw5;
-/**
- * 
- * @author Tanjim Ahammad SBU Email: tanjim.ahammad@stonybrook.edu
- *  Recitation:R03 SBU ID:114863193
- */
 public class FullDirectoryException extends Exception{
 /**
  * 
